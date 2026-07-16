@@ -23,7 +23,7 @@
 
 ## About me
 
-Desenvolvedor backend apaixonado por resolver problemas através da tecnologia. Estou constantemente evoluindo meus conhecimentos em **Java, Spring Boot, React, Python e Análise de Dados**.
+Desenvolvedor backend apaixonado por resolver problemas através da tecnologia. Estou constantemente evoluindo meus conhecimentos em **Java, Spring Boot, Kafka, SQL e Docker**.
 
 Focado em escrever código limpo, escalável e que gera impacto real. Buscando oportunidade de estágio para aplicar e expandir conhecimentos em ambiente colaborativo.
 
