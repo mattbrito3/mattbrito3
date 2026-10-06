@@ -6,12 +6,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=mattbrito3&label=PROFILE%20VIEWS&color=5B00FF&style=for-the-badge" alt="Visualizações do perfil"/>
 
+
 - 👨‍💻 **Desenvolvedor Backend Java | Spring Boot**
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na Unicesumar (previsão: 2028)
 - 🔐 APIs REST seguras, **JWT**, **controle de concorrência** e **Kafka**
 - 🧪 Testes automatizados, **Docker** e **CI/CD**
-- 🎯 Buscando **estágio em backend** ou vaga de **Desenvolvedor Java Júnior**
-- 📍 Natal, RN — Brasil 🇧🇷
 
 </td>
 <td width="45%" valign="middle" align="center">
